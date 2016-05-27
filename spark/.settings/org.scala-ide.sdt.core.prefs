@@ -1,7 +1,9 @@
 //src/main/java=main
 //src/main/resources=main
+//src/main/scala=main
 //src/test/java=tests
 //src/test/resources=tests
+//src/test/scala=tests
 P=
 Xcheckinit=false
 Xdisable-assertions=false
